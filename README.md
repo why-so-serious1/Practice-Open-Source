@@ -1,1 +1,2 @@
-This repository contains data structure and algo code written in swift
+<b>SWIFT</b>  
+This repository contains Data-Structure and Algo code written in Swift
