@@ -1,5 +1,5 @@
 <b>SWIFT</b>  
-This repository contains Data-Structure and Algo code written in Swift.  
-An example of Basic Class in Swift  
-
+This repository is for people who want to get started with contributing to Open Source projects.  
+There is no language barrier for the repo.  
+Be sure that you code meets the standars and helps you learn.
 
