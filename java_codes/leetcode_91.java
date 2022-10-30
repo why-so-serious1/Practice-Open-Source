@@ -1,5 +1,6 @@
-import java.util.*;
-
+// Please run on leetcode compiler to check results
+// string s can be a string of integers
+// Example: "1234"
 //Leetcode 91
 class Solution {
     public int numDecodings(String s) {
